@@ -35,7 +35,3 @@ No additional installation is required, as the app is built with vanilla JavaScr
 - CSS
 - JavaScript
 - Web Speech API
-
-## License
-
-This project is licensed under the MIT License.
